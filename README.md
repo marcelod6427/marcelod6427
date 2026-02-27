@@ -1,7 +1,7 @@
 ## Olá, eu sou o Marcelo Guimarães
 
 ### 🎓 Estudante de Engenharia de Software – UNIFAE
-### 💻 Técnico em Manutenção e Suporte em Informática – IFSP
+### 💻 Técnico em Manutenção e Suporte em Informática – IFSP (Em andamenoto)
 ### 📍 São João da Boa Vista – SP
 
 ### 🚀 Sobre mim:
